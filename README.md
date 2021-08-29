@@ -1,0 +1,1 @@
+# wimr-email-templates
