@@ -1,10 +1,12 @@
 <p>Dear [FIRST_NAME]</p>
 <p>This email confirms your appointment with Dr Alex Fois on [APPOINTMENT_DATE] at [APPOINTMENT_TIME] at the Woolcock Clinic.</p>
-<p>IMPORTANT:</p>
 <p>You will receive a confirmation SMS 72 hours before your appointment. To secure your appointment you must SMS &lsquo;Yes&rdquo; to confirm your attendance.</p>
+<p><strong>Registration</strong></p>
+<p>Please <a href="https://wimr.snapforms.com.au/form/registration?new%20patient=[PATIENT]&amp;adult%20or%20paed=Adult&amp;research%20or%20clinic=Clinic&amp;consult%20or%20sleep=Consult&amp;first%20name=[FIRST_NAME]&amp;last%20name=[LAST_NAME]&amp;dob=[DOB]">click here</a> and complete your registration form before attending for your appointment.</p>
+<p><strong>Cancellation Fees</strong></p>
 <p>When a patient cancels their appointment or does not attend without giving notice, they prevent another patient from being seen.&nbsp; Therefore, your Doctor requires a 48-hour cancellation notice for any appointment changes.</p>
 <p>A charge of $100 will apply for any appointment changes that may occur without appropriate notice.&nbsp;</p>
-<p><u>What to bring</u>:</p>
+<p><strong>What to bring</strong></p>
 <ol>
 <li>A Valid Referral &ndash; Indefinite referrals will not be accepted.</li>
 <li>Your Medicare/DVA card/Pension card</li>
@@ -30,7 +32,7 @@
 <li>You have developed any other respiratory symptoms</li>
 <li>You have been a contact of someone diagnosed with COVID-19</li>
 </ul>
-<p><strong><u>Payment for your consultation:</u></strong></p>
+<p><strong>Payment for your consultation:</strong></p>
 <p>The consultation fee for your first visit will be $460.00&nbsp; (rebate $234.85).&nbsp; If other services are required on the day, additional fees are payable. We accept EFTPOS, credit cards, but no cash or cheques.</p>
 <p>All subsequent consultations will also attract a fee of approximately $250. (rebate ranging between $67.80 and $118.65) <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
 <p>We are able to submit your claim to Medicare on site, given we have a valid referral and Medicare details.</p>
