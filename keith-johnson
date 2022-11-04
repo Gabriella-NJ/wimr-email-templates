@@ -2,6 +2,9 @@
 <p>This email confirms your appointment with Dr Keith Johnson on [APPOINTMENT_DATE] at [APPOINTMENT_TIME] via Zoom.</p>
 <p><strong>SMS Confirmation</strong></p>
 <p>You will receive a confirmation SMS 72 hours before your appointment. Please reply &lsquo;Yes&rdquo; to confirm your attendance and secure your appointment.</p>
+<p>As you are having a Zoom consult, your meeting link will appear below. Please save this email and use the link on the day of your appointment.</p>
+<p>Please join the meeting at your appointment time and wait to be admitted by your physician.</p>
+<p><a href="[APPOINTMENT_LINK]">[APPOINTMENT_LINK]</a></p>
 <p><strong>Registration</strong></p>
 <p>Please <a href="https://wimr.snapforms.com.au/form/registration?new%20patient=[PATIENT]&amp;adult%20or%20paed=Adult&amp;research%20or%20clinic=Clinic&amp;consult%20or%20sleep=Consult&amp;first%20name=[FIRST_NAME]&amp;last%20name=[LAST_NAME]&amp;dob=[DOB]">click here</a> and complete your registration form before attending for your appointment.</p>
 <p><strong>Referral</strong></p>
