@@ -5,7 +5,8 @@
 <p><strong>SMS Confirmation</strong></p>
 <p>You will receive a confirmation SMS 72 hours before your appointment. Please reply &lsquo;Yes&rdquo; to confirm your attendance and secure your appointment.</p>
 <p><strong>Registration &amp; Questionnaires</strong></p>
-<p>Please <a href="https://wimr.snapforms.com.au/form/registration?new%20patient=[PATIENT]&amp;adult%20or%20paed=Adult&amp;research%20or%20clinic=Clinic&amp;consult%20or%20sleep=Consult&amp;first%20name=[FIRST_NAME]&amp;last%20name=[LAST_NAME]&amp;dob=[DOB]">click here</a> and complete your registration form before attending for your appointment. Please also take the time to complete our standard set of questionnaires <a href="https://wimr.snapforms.com.au/form/psychology-questionnaires?practitioner=[APPOINTMENT_WITH]&amp;first%20name=[FIRST_NAME]&amp;last%20name=[LAST_NAME]&amp;dob=[DOB]">here</a>.</p>
+<p>Please <a href="https://wimr.snapforms.com.au/form/registration?new%20patient=[PATIENT]&amp;adult%20or%20paed=Adult&amp;research%20or%20clinic=Clinic&amp;consult%20or%20sleep=Consult&amp;first%20name=[FIRST_NAME]&amp;last%20name=[LAST_NAME]&amp;dob=[DOB]">click here</a> and complete your registration form before attending for your appointment. Please also take the time to complete our standard set of questionnaires <a href="https://wimr.snapforms.com.au/form/psychology-questionnaires?first%20name=[FIRST_NAME]&amp;last%20name=[LAST_NAME]&amp;dob=[DOB]">here</a>. It is <strong> extremely important </strong> to complete
+these forms before your attendance to enable your consultation to commence on time.</p>
 <p><strong>Ahead of your appointment</strong></p>
 <p>Please send the following to <a href="mailto:reception@woolcock.org.au">reception@woolcock.org.au</a> (or reply to this email) before your appointment date.</p>
 <ol>
