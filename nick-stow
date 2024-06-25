@@ -1,5 +1,5 @@
 <p>Dear [FIRST_NAME],</p>
-<p>This email confirms your appointment with [APPOINTMENT_WITH] on [APPOINTMENT_DATE] at [APPOINTMENT_TIME] at the Woolcock Clinic.</p>
+<p>This email confirms your appointment with Dr Nick Stow on [APPOINTMENT_DATE] at [APPOINTMENT_TIME] at the Woolcock Clinic.</p>
 <p><strong>Registration</strong></p>
 <p>Please <a href="https://wimr.snapforms.com.au/form/registration?new%20patient=[PATIENT]&amp;adult%20or%20paed=Adult&amp;research%20or%20clinic=Clinic&amp;consult%20or%20sleep=Consult&amp;first%20name=[FIRST_NAME]&amp;last%20name=[LAST_NAME]&amp;dob=[DOB]">click here</a> and complete your registration form before attending for your appointment.</p>
 <p><strong>Referral</strong></p>
@@ -30,8 +30,8 @@
 <li>You have been a contact of someone diagnosed with COVID-19</li>
 </ul>
 <p><strong>Payment for your consultation:</strong></p>
-<p>The consultation fee for your first visit may be between $280.00 and $450.00, depending on the complexity of the initial consultation and the tests required. We can submit your claim to Medicare on site, given there is a valid referral and Medicare details.</p>
-<p>Please note that this is a private clinic and [APPOINTMENT_WITH] does not Bulk Bill.</p>
+<p>The consultation fee for your first visit may be between $185 and $280.00. We can submit your claim to Medicare on site, given there is a valid referral and Medicare details.</p>
+<p>Please note that this is a private clinic and Dr Stow does not Bulk Bill.</p>
 <p><strong>Cancellation Fees</strong></p>
 <p>When a patient cancels their appointment or does not attend without giving notice, they prevent another patient from being seen.&nbsp; Therefore, your Doctor requires a 48-hour cancellation notice for any appointment changes. A charge of $100 will apply for any appointment changes that may occur without appropriate notice.&nbsp;</p>
 <p>Please do not reply to this email as this address is not monitored. Instead, email <a href="mailto:reception@woolcock.org.au">reception@woolcock.org.au</a>. We look forward to welcoming you at the Woolcock Clinic and wish you all the best for your visit.</p>
