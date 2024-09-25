@@ -1,17 +1,19 @@
 <p>Dear [FIRST_NAME],</p>
-<p>This email confirms your appointment with [APPOINTMENT_WITH] on [APPOINTMENT_DATE] at [APPOINTMENT_TIME]&nbsp;at the Woolcock Clinic.</p>
+<p>This email confirms your appointment with [APPOINTMENT_WITH] on [APPOINTMENT_DATE] at [APPOINTMENT_TIME] via Zoom.</p>
 <p><strong>SMS Confirmation</strong></p>
 <p>You will receive a confirmation SMS 72 hours before your appointment. Please reply &lsquo;Yes&rdquo; to confirm your attendance and secure your appointment.</p>
-<p>&nbsp;</p>
-<p><strong>Payment/cancellation:</strong></p>
-<p>The cost of your initial consultation will be $500.&nbsp;Please note that this is a private clinic and we do not Bulk Bill.</p>
-<p>When a patient cancels their appointment or does not attend without giving notice, they prevent another patient from being seen.&nbsp; Therefore, we require 2 business days notice for any appointment changes.</p>
-<p>A charge of $100 will apply for any appointment changes that may occur without appropriate notice.&nbsp;</p>
+<p>As you are having a Zoom consult, your meeting link will appear below. Please save this email and use the link on the day of your appointment.</p>
+<p>Please join the meeting at your appointment time and wait to be admitted by your psychiatrist.</p>
+<p><a href="[APPOINTMENT_LINK]">[APPOINTMENT_LINK]</a></p>
+<p><strong>Payment:</strong></p>
+<p>The cost of your initial consultation will be $500. Please be aware that your&nbsp;<strong>consult fee is payable in advance.&nbsp;</strong>You will be contacted by our reception team two business days before your appointment to obtain payment over the phone. This payment is non-refundable.</p>
+<p>Please note that this is a private clinic and we do not Bulk Bill.</p>
 <p><strong>Registration</strong></p>
 <p>Please <a href="https://wimr.snapforms.com.au/form/registration?new%20patient=[PATIENT]&amp;adult%20or%20paed=Adult&amp;research%20or%20clinic=Clinic&amp;consult%20or%20sleep=Consult&amp;first%20name=[FIRST_NAME]&amp;last%20name=[LAST_NAME]&amp;dob=[DOB]">click here</a> and complete your registration form before attending for your appointment.</p>
 <p><strong>Referral</strong></p>
 <p>Please email your referral to <a href="mailto:reception@woolcock.org.au">reception@woolcock.org.au</a> prior to your appointment. Please note that a specialist referral is valid for 3 months and a GP referral is valid for 12 months. Without a valid referral at the time of your consultation/treatment, Medicare will not be able to process your claim.</p>
 <p>Approval documentation from your Insurer needs to be provided in the case of a Workers&rsquo; Compensation or Third-Party Claim. If not supplied, payment will need to be made on the day by the patient.</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>If you have any queries, please do not hesitate to contact our friendly reception team on 02 9805 3000. Please do not reply to this email as this address is not monitored. Instead, email <a href="mailto:reception@woolcock.org.au">reception@woolcock.org.au</a>.</p>
 <p>Kind regards,</p>
