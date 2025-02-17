@@ -1,5 +1,5 @@
 <p>Dear [FIRST_NAME],</p>
-<p>This email confirms your appointment with Tracey Martin on [APPOINTMENT_DATE] at [APPOINTMENT_TIME] via Zoom.</p>
+<p>This email confirms your appointment with Tracey Martin on [APPOINTMENT_DATE] at [APPOINTMENT_TIME] for one hour via Zoom.</p>
 <p>Your meeting link will appear below. Please save and use this email and use the link on the day of your appointment. Please join the meeting at your appointment time and wait to be admitted by your sleep coach.</p>
 <p><a href="[APPOINTMENT_LINK]">[APPOINTMENT_LINK]</a></p>
 <p><strong>Registration &amp; Questionnaires</strong></p>
