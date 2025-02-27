@@ -1,7 +1,6 @@
 <p>Dear [FIRST_NAME],</p>
 <p>This email confirms your appointment with Tracey Martin on [APPOINTMENT_DATE] at [APPOINTMENT_TIME] for one hour via Zoom.</p>
-<p>Your meeting link will appear below. Please save and use this email and use the link on the day of your appointment. Please join the meeting at your appointment time and wait to be admitted by your sleep coach.</p>
-<p><a href="[APPOINTMENT_LINK]">[APPOINTMENT_LINK]</a></p>
+<p>The link to your Zoom meeting will be sent the business day before your consult</p>
 <p><strong>Registration &amp; Questionnaires</strong></p>
 <p>Please <a href="https://wimr.snapforms.com.au/form/registration?new%20patient=[PATIENT]&amp;adult%20or%20paed=Adult&amp;research%20or%20clinic=Clinic&amp;consult%20or%20sleep=Consult&amp;first%20name=[FIRST_NAME]&amp;last%20name=[LAST_NAME]&amp;dob=[DOB]">click here</a> and complete your registration form before attending for your appointment.</p>
 <p><strong>Fees</strong></p>
